@@ -48,16 +48,32 @@
 
 ---
 
-### 📌 Featured Project
+### 📌 Featured Projects
+
+<h3 align="center"><a href="https://github.com/RogerioDoCarmo/curriculo">Personal Resume Website</a></h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RogerioDoCarmo/mirror_app/main/assets/icon.png" width="88" alt="Miroji app icon" />
+My personal site and résumé — Next.js 16, TypeScript, Tailwind CSS v4, next-intl (EN/ES/pt-BR), a PWA, and a full quality pipeline (Jest, Playwright E2E, Lighthouse, Storybook, Stryker mutation testing) shipping to Vercel on every merge.
+</p>
+
+<p align="center">
+  <a href="https://rogeriodocarmo.com"><img src="https://raw.githubusercontent.com/RogerioDoCarmo/curriculo/main/public/images/projects/resume.png" width="640" alt="Personal resume website preview" /></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/v/release/RogerioDoCarmo/curriculo" alt="release" />
+  <img src="https://img.shields.io/github/stars/RogerioDoCarmo/curriculo?cacheSeconds=3600" alt="stars" />
+  <img src="https://img.shields.io/github/last-commit/RogerioDoCarmo/curriculo" alt="last commit" />
 </p>
 
 <h3 align="center"><a href="https://github.com/RogerioDoCarmo/mirror_app">Miroji</a></h3>
 
 <p align="center">
-A React Native app that turns the front camera into a real-time mirror — built as a public, auditable showcase of production-grade mobile engineering: hexagonal architecture, TDD, mutation testing, and full CI/CD to both app stores.
+  <img src="https://raw.githubusercontent.com/RogerioDoCarmo/mirror_app/main/assets/icon.png" width="64" alt="Miroji app icon" />
+</p>
+
+<p align="center">
+A React Native app that turns the front camera into a real-time mirror — a small, focused showcase of production-grade mobile engineering: hexagonal architecture, TDD, mutation testing, and full CI/CD to both app stores.
 </p>
 
 <p align="center">
@@ -65,7 +81,9 @@ A React Native app that turns the front camera into a real-time mirror — built
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RogerioDoCarmo&repo=mirror_app&theme=tokyonight&hide_border=true" alt="Miroji repo card" />
+  <img src="https://img.shields.io/github/v/release/RogerioDoCarmo/mirror_app" alt="release" />
+  <img src="https://img.shields.io/github/stars/RogerioDoCarmo/mirror_app?cacheSeconds=3600" alt="stars" />
+  <img src="https://img.shields.io/github/last-commit/RogerioDoCarmo/mirror_app" alt="last commit" />
 </p>
 
 ---
