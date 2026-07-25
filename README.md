@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,100:06b6d4&height=220&section=header&text=Rog%C3%A9rio%20do%20Carmo&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Senior%20React%20Native%20Developer&descAlignY=55&descSize=20&animation=fadeIn" width="100%" alt="header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c8479,100:048196&height=220&section=header&text=Rog%C3%A9rio%20do%20Carmo&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Senior%20React%20Native%20Developer&descAlignY=55&descSize=20&animation=fadeIn" width="100%" alt="header banner" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=React+Native+%7C+TypeScript+%7C+Firebase;Building+banking+apps+used+by+millions;Pix+%E2%80%A2+Micro-frontends+%E2%80%A2+Design+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=048196&center=true&vCenter=true&width=600&lines=React+Native+%7C+TypeScript+%7C+Firebase;Building+banking+apps+used+by+millions;Pix+%E2%80%A2+Micro-frontends+%E2%80%A2+Design+Systems" alt="Typing SVG" />
   </a>
 </p>
 
@@ -20,15 +20,15 @@
 
 #### Mobile
 
-![React Native](https://img.shields.io/badge/React_Native-61dafb?logo=react&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-387e91?logo=react&logoColor=white)
+![Android](https://img.shields.io/badge/Android-258550?logo=android&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white)
 
 #### Languages
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ab6400?logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white)
 
 #### State, Data & Testing
@@ -39,11 +39,11 @@
 
 #### Tools & Ops
 
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-d0452b?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-c2541d?logo=gitlab&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-cd4738?logo=jenkins&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-c35300?logo=grafana&logoColor=white)
 ![Kibana](https://img.shields.io/badge/Kibana-005571?logo=kibana&logoColor=white)
 
 ---
@@ -110,7 +110,7 @@ A React Native app that turns the front camera into a real-time mirror — a sma
 <p align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rogeriodocarmo/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d9488?logo=vercel&logoColor=white)](https://rogeriodocarmo.com/)
-[![Email](https://img.shields.io/badge/Email-06b6d4?logo=gmail&logoColor=white)](mailto:contact@rogeriodocarmo.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0c8479?logo=vercel&logoColor=white)](https://rogeriodocarmo.com/)
+[![Email](https://img.shields.io/badge/Email-048196?logo=gmail&logoColor=white)](mailto:contact@rogeriodocarmo.com)
 
 </p>
