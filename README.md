@@ -8,44 +8,6 @@
   </a>
 </p>
 
-### 👋 About Me
-
-- 📱 Senior **React Native** developer, currently building **banking sector** apps (Pix module, biometric login, loan features) used across Brazil, Mexico and Argentina.
-- 🛰️ Master's in Cartographic Sciences (UNESP) — researched GNSS/GPS positioning quality on Android smartphones.
-- 🧩 Comfortable across the stack: Redux/Saga, Jotai, TanStack, micro-frontends, design systems, and native Android (Java) when needed.
-- 🌎 B2 English (TOEIC), based in Brazil, open to remote/international collaboration.
-- 🔗 Portfolio: [rogeriodocarmo.com](https://rogeriodocarmo.com/) · [LinkedIn](https://www.linkedin.com/in/rogeriodocarmo/)
-
-### 🛠️ Tech Stack
-
-#### Mobile
-
-![React Native](https://img.shields.io/badge/React_Native-61dafb?logo=react&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white)
-
-#### Languages
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white)
-
-#### State, Data & Testing
-
-![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
-![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)
-
-#### Tools & Ops
-
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
-![Kibana](https://img.shields.io/badge/Kibana-005571?logo=kibana&logoColor=white)
-
 ---
 
 ### 📌 Featured Projects
@@ -85,6 +47,46 @@ A React Native app that turns the front camera into a real-time mirror — a sma
   <img src="https://img.shields.io/github/stars/RogerioDoCarmo/mirror_app?cacheSeconds=3600" alt="stars" />
   <img src="https://img.shields.io/github/last-commit/RogerioDoCarmo/mirror_app" alt="last commit" />
 </p>
+
+---
+
+### 👋 About Me
+
+- 📱 Senior **React Native** developer, currently building **banking sector** apps (Pix module, biometric login, loan features) used across Brazil, Mexico and Argentina.
+- 🛰️ Master's in Cartographic Sciences (UNESP) — researched GNSS/GPS positioning quality on Android smartphones.
+- 🧩 Comfortable across the stack: Redux/Saga, Jotai, TanStack, micro-frontends, design systems, and native Android (Java) when needed.
+- 🌎 B2 English (TOEIC), based in Brazil, open to remote/international collaboration.
+- 🔗 Portfolio: [rogeriodocarmo.com](https://rogeriodocarmo.com/) · [LinkedIn](https://www.linkedin.com/in/rogeriodocarmo/)
+
+### 🛠️ Tech Stack
+
+#### Mobile
+
+![React Native](https://img.shields.io/badge/React_Native-61dafb?logo=react&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white)
+
+#### Languages
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white)
+
+#### State, Data & Testing
+
+![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)
+
+#### Tools & Ops
+
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?logo=kibana&logoColor=white)
 
 ---
 
