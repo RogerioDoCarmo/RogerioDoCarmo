@@ -1,0 +1,18 @@
+{
+  // https://github.com/DavidAnson/markdownlint/blob/main/doc/Rules.md
+  "default": true,
+
+  // README.md is badge- and URL-heavy (shields.io, stats-card endpoints);
+  // hard-wrapping at 80 chars hurts readability more than it helps.
+  "MD013": false,
+
+  // README.md relies on raw HTML for the centered banner/badges, the
+  // Miroji app-icon block, and the dark/light `<picture>` switch for the
+  // contribution snake, which plain Markdown can't express.
+  "MD033": {
+    "allowed_elements": ["p", "img", "a", "h3", "picture", "source"]
+  },
+
+  // The README intentionally opens with a banner image, not a "#" heading.
+  "MD041": false
+}
